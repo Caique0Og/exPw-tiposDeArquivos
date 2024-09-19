@@ -1,0 +1,33 @@
+body{
+	background: #76ADF5;
+	}
+	h1 {
+
+    font-size: 50px;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+	p {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-weight: bold;
+}
+
+	h1 {
+    font-size: 50px;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+	p {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-weight: bold;
+}
+ul {
+  background: lightgreen;
+}
+.list1{
+  background: rgb(32, 36, 255);
+}
